@@ -1,0 +1,5 @@
+phi.test	Nonparametric goodness-of-fit test based on phi-divergences
+phi.bands	Confidence bands based on phi-divergences
+plot.phibands	Graphical display of phibands objects	
+ 
+

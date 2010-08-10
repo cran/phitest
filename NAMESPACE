@@ -1,0 +1,7 @@
+useDynLib(phitest,"Pval_wrapper")
+useDynLib(phitest,"Quant_wrapper")
+useDynLib(phitest,"Bands_wrapper")
+export(phi.test)
+export(phi.bands)
+export(plot.phibands)
+S3method(plot,phibands)
